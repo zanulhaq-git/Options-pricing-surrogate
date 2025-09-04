@@ -7,8 +7,7 @@ Uses a neural network to approximate options prices and Greeks from an initial m
 - Matplotlib
 
 ## Example results
-![Analytical delta vs neural network delta]
-https://github.com/zanulhaq-git/Options-pricing-surrogate/blob/master/delta_vs_nn.png
+![Analytical delta vs neural network delta](https://github.com/zanulhaq-git/Options-pricing-surrogate/blob/master/delta_vs_nn.png)
 
 ## Future updates:
 - Bug fixes
