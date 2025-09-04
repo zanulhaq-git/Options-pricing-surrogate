@@ -9,6 +9,8 @@ Uses a neural network to approximate options prices and Greeks from an initial m
 ## Example results
 ![Analytical delta vs neural network delta](https://github.com/zanulhaq-git/Options-pricing-surrogate/blob/master/delta_vs_nn.png)
 
+![Analytical price vs neural network price](https://github.com/zanulhaq-git/Options-pricing-surrogate/blob/master/nn_vs_bs.png)
+
 ## Future updates:
 - Bug fixes
 - Adding compatiblity to other pricing models, including models without closed-form solutions
