@@ -1,0 +1,1 @@
+Uses a neural network to approximate options prices and Greeks from an initial model.  Currently built on the Black-Scholes PDE model, future updates will involve porting this to models without closed solutions.
